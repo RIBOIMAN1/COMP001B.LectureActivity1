@@ -1,0 +1,11 @@
+body {
+    background-color: red;
+}
+
+.BoldedFont {
+    font-weight: bold;
+}
+
+p:hover {
+    color: white;
+}
